@@ -1,0 +1,34 @@
+[{
+  "cep": "13087-500",
+  "logradouro": "Rua Hermantino Coelho",
+  "complemento": "",
+  "bairro": "Mansões Santo Antônio",
+  "localidade": "Campinas",
+  "uf": "SP",
+  "ibge": "3509502",
+  "gia": "2446",
+  "ddd": "19",
+  "siafi": "6291"
+}, {
+  "cep": "13090-840",
+  "logradouro": "Rua Salesópolis",
+  "complemento": "",
+  "bairro": "Jardim Alto da Barra",
+  "localidade": "Campinas",
+  "uf": "SP",
+  "ibge": "3509502",
+  "gia": "2446",
+  "ddd": "19",
+  "siafi": "6291"
+}, {
+  "cep": "40015-970",
+  "logradouro": "Praça da Inglaterra",
+  "complemento": "s/n",
+  "bairro": "Comércio",
+  "localidade": "Salvador",
+  "uf": "BA",
+  "ibge": "2927408",
+  "gia": "",
+  "ddd": "71",
+  "siafi": "3849"
+}]
